@@ -45,8 +45,13 @@ Les joueurs inscrivent tour à tour leur symbole sur une grille qui n'a pas de l
 
 
 
-Concernant le lancement du jeu rien de plus simple ! apres le git clone que tu as fait il te suffit de te placer dans le dossier et de taper dans ton invite de commande ruby app.rb. Comme par magie !enfin non ! Par magie les regles du jeu s'affichent et le programme te demande de rentrer ton prenom ! c'est la que commence le jeu !
-concernant la construction du programme, il y un app.rb qui est le chef d'orchestre. C'est lui qui appel les fichiers des differentes classes et les organises. Le app appel trois classes differentes donc trois fichier differents. un ficher morpionsystem qui est le plus important il regroupe les regles du morpions, a cela s'ajoute le fichier show qui est la pour montrer a l'utilisateur le morpion, enfin nous avons le fichier player qui contiendra le symbole de chaque joueur et leur prenom. 
+Concernant le lancement du jeu rien de plus simple ! apres le git clone que tu as fait il te suffit de te placer dans le dossier et de taper dans ton invite de commande ruby app.rb.
+
+Ensuite les règles du jeu s'affichent et le programme te demande de rentrer ton prenom ! C'est la que commence le jeu !
+
+Concernant la construction du programme, il y un app.rb qui est le chef d'orchestre. C'est lui qui appel les fichiers des differentes classes et les organises. 
+Le app appel trois classes differentes donc trois fichier differents. un ficher morpionsystem qui est le plus important il regroupe les regles du morpions, a cela s'ajoute le fichier show qui est la pour montrer a l'utilisateur le morpion, enfin nous avons le fichier player qui contiendra le symbole de chaque joueur et leur prenom. 
+
 Enfin un petit fichier dans le db enregistre qui a gagne !
 
 voila nous t'avons dit l'essentiel regarde notre code (il est est commente tkt) et bon courage !
